@@ -5,3 +5,5 @@ The Rockwell Software used for these files are the following:
 * RSLogix Micro Starter Lite (aka 500) v.8.30.00 
 * RSLinx Classic Lite v.4.11.00 CPR 9 SR 11.0 
 * RSLogix Enmulate 500 v.6.00.00.07
+
+Note: every file has a comment in github with the project general description.
